@@ -1,1 +1,1 @@
-@extends('template.separate.master')
+@extends('template.separate.master') 
